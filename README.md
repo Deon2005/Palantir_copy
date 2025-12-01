@@ -1,4 +1,5 @@
 # Palantir - Near-Earth Object (NEO) Visualization & Impact Simulator 🌍💥🛰️
+Contibuted by Deon Berchmans
 
 A comprehensive asteroid tracking and impact simulation platform combining **real NASA data** with interactive 3D visualization and physics-based impact modeling. Track real near-earth objects, simulate custom asteroid impacts, visualize 3D trajectories, and evaluate planetary defense strategies.
 
@@ -463,3 +464,4 @@ For real asteroid threat assessment, consult:
 ---
 
 **Built with 🌍 for planetary defense education and awareness**
+
